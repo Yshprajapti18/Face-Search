@@ -100,14 +100,5 @@ Follow these steps to install and set up the application on your local machine.
 
 We welcome contributions! Please fork the repository and submit pull requests.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contact
-
-For questions or inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
-
----
 
 Thank you for using our Face Search Application!
