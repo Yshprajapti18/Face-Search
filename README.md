@@ -81,7 +81,7 @@ Follow these steps to install and set up the application on your local machine.
 
 
 1. **Hosting a Room:**
- ![Screenshot 2024-05-14 194005 - Copy](https://github.com/Yshprajapti18/Face-Search/assets/128960060/bda20194-f9cf-4ef3-ba6b-5792cd74070e)
+![Screenshot 2024-05-14 194005 - Copy](https://github.com/Yshprajapti18/Face-Search/assets/128960060/bda20194-f9cf-4ef3-ba6b-5792cd74070e)
   
     - Log in to the application.
     - Navigate to the "Host Room" section.
@@ -93,7 +93,8 @@ Follow these steps to install and set up the application on your local machine.
     - After hosting a room, navigate to the "Search" section.
     - Upload an image to perform a facial recognition search within the hosted room.
 
-![Screenshot 2024-05-14 195313](https://github.com/Yshprajapti18/Face-Search/assets/128960060/4f853165-4c82-4385-83db-29e862db67fe)
+![Screenshot 2024-05-14 194600 - Copy](https://github.com/Yshprajapti18/Face-Search/assets/128960060/33cfc105-e689-4c43-8db4-01d25ca9842c)
+
 
 ## Contributing
 
