@@ -24,7 +24,7 @@ Follow these steps to install and set up the application on your local machine.
 
     ```bash
     git clone https://github.com/yourusername/facesearch.git
-    cd facesearch
+    cd Face Hunter
     ```
 
 2. **Create a virtual environment:**
